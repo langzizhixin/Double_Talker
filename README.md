@@ -1,4 +1,4 @@
-# Wanderer's Heart Technology
+# Langzizhixin Wanderer's Heart Technology 
 # Double_Talker
 This code is only used to demonstrate the loop driven dual digital human on the same screen, coupled with a framework for post processing ultra division. The code uses a WAv2lip loop to drive a dual digital human on the same screen, train a high-definition model, perform streaming processing, strengthen hardware, and do not perform post processing. It can be used for real-time live streaming of dual digital humans. It is also possible to replace WAv2lip with other digital human driven projects based on this framework. Among them, videos 1-6 are pre recorded silent videos for two people, and audio 1-6 is pre prepared speaking audio.
 1. Upload the recorded dual video materials and audio separately to the temp in advance_ Video and input_ Audio.

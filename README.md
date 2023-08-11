@@ -9,12 +9,16 @@ This code is only used to demonstrate the loop driven dual digital human on the 
 
 ## Inference  
 ### Please click on the Colab link below to inference.
+
 [![Open In Colab][colab-badge]][colab-notebook]
+
 [colab-notebook]: <https://colab.research.google.com/github/langzizhixin/Double_Talker/blob/main/Double_Talker.ipynb>
+
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 ***
 ## Useful links:
 https://github.com/sczhou/CodeFormer
+
 https://github.com/Rudrabha/Wav2Lip
 ### 
 ### 
